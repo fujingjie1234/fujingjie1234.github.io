@@ -1,0 +1,19 @@
+#button{
+	display:inline-block;
+}
+ul{
+	list-style: none;
+	height:550px;
+	width:90%;
+	display:flex;
+	justify-content: center;
+	align-content: flex-end;
+	align-items: flex-end;
+}
+li{
+	background-color: red;
+	color:white;
+	width:15px;
+	display:inline-block;
+	margin-left:3px;
+}
